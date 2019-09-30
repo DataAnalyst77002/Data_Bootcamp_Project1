@@ -1,7 +1,7 @@
 # Data_Bootcamp_Project1
 Team: Amy, Jason, and Charles
 
-![Title](Images/Average Price Zipcode.png)
+![Title](https://github.com/DataAnalyst77002/Data_Bootcamp_Project1/blob/master/Images/Average%20Price%20City.png)
 
 # Getting Your Bite: Airbnb Properties in NYC
 Airbnb is a global network of For Rent by Owner (FRBO) Vacation rentals. This private company has been making waves as one of the fastest growing sectors of the lodging/vacation sector. In 2017 Airbnb earned $2.6B in revenues and they are expecting to top $4B for 2018. As a result, this area has become a hot bed for investors looking to maximize their return in the real estate market and collect a premium on their investment over traditional real-estate property types.
